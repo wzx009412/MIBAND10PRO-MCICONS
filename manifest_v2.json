@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "979894277143",
+    "restype": "watchface",
+    "name": "Minecraft风格图标包",
+    "description": "我的世界风格图标包\n仅适用小米手环10Pro3.101.043版本\n交流群：625061890",
+    "preview": [
+      "media/67932.png",
+      "media/67939.png",
+      "media/67940.png",
+      "media/67941.png",
+      "media/67942.png"
+    ],
+    "icon": "media/67937.png",
+    "cover": "media/67935.png",
+    "author": [
+      {
+        "name": "wzx5343",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1",
+      "file_name": "downloads/sc5_resource-11.face",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
